@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-git pruyeba
-=======
 prueba
->>>>>>> prueba1v2

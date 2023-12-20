@@ -1,6 +1,2 @@
 GRRRRRRRRRRRRRRRRRDSGHSJKALFSKLHJTACKS gggggggggggggafffffffffff
-<<<<<<< HEAD
-Prueba1 esta viva
-=======
 Prueba1 esta vivant
->>>>>>> prueba1v2
